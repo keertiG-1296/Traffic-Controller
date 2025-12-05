@@ -1,6 +1,9 @@
 Clone the repository
+```bash
+
 git clone https://github.com/keertiG-1296/Traffic-Controller.git
 cd Traffic-Controller
+```
 
 Install dependencies
 pip install -r requirements.txt
