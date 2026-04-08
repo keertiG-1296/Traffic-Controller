@@ -21,7 +21,6 @@ ents/assets/3d36d295-9432-4826-ba1f-db9075a60616)
 
 ## 🛠 Tech Stack
 - Python, YOLOv3, OpenCV
-- NumPy, real-time video processing
 
 ## 🚀 How to Run
 
