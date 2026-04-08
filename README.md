@@ -24,23 +24,6 @@ ents/assets/3d36d295-9432-4826-ba1f-db9075a60616)
 - NumPy, real-time video processing
 
 ## 🚀 How to Run
-git clone https://github.com/keertiG-1296/Traffic-Controller.git
-cd Traffic-Controller
-pip install -r requirements.txt
-python 2lane.py
-
-## 📊 Results
-| Metric | Value |
-|--------|-------|
-| Vehicle detection accuracy | ~85% |
-| Wait time reduction | 40% |
-
-## 💡 What I learned
-- Custom YOLO inference pipelines
-- Real-time image preprocessing
-- Signal optimization logic
-
-
 
 Clone the repository
 ```bash
@@ -63,3 +46,19 @@ Run the code
 ```bash
 python 2lane.py
 ```
+
+
+## 📊 Results
+| Metric | Value |
+|--------|-------|
+| Vehicle detection accuracy | ~85% |
+| Wait time reduction | 40% |
+
+
+## 💡 What I learned
+- Custom YOLO inference pipelines
+- Real-time image preprocessing
+- Signal optimization logic
+
+
+
